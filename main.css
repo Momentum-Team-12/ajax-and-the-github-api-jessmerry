@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(179, 120, 98);
+    margin: 50px;
+}
+
+#profile {
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    border-radius: 250px;
+    height: 200px;
+    width: 200px;
+}
+
+.name {
+    text-align: right;
+    
+}
+
+/* body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.name {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    padding: 3px;
+    margin-left: 400px;
+    text-align: center;
+}
+
+.location {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    padding: 3px;
+    margin-right: 450px;
+    text-align: center;
+}
+
+.img {
+    border-radius: 250px;
+    width: 200px;
+    height: 200px;
+} */
